@@ -37,6 +37,7 @@ Thomas 爱好广泛，业余时间曾任某刊物主编，曾在某创业园区�
 | 知乎       | [Thinkbond](https://www.zhihu.com/people/thinkbond/) | 知乎专栏：[匠人造物](https://zhuanlan.zhihu.com/jrwork) |
 | 微博       | [匠人造物](https://weibo.com/thinkbond)              | 记录生活成长点滴，碎片信息                              |
 | 微信公众号 | 匠人造物（jrworkcn）                                 | 目前正在建设中，多谢鼓励：） |                              |
+
 博客站现已开通评论，欢迎留言哦
 ### $ 如果想赞助，我是说如果
 
