@@ -9,59 +9,43 @@ hideInList: false
 
 ## 🏠 关于本站
 
-这是博主的个人博客，分享喜欢的软件、在读的好书，生活记录，以及思考。可以说是我的线上[commonplace book](https://lillianwho.com/posts/commonplace-book/)。
+我会将个人学习成长过程的感悟、体会记录在这里。
 
 ### 订阅我
 
-- RSS地址： feed://lillianwho.com/atom.xml 
+- RSS地址： feed://thomasteng.com/atom.xml 
 - 邮件订阅：[欢迎订阅](https://tinyletter.com/lillianwho) 
 
 ### 博客程序
 
 - hugo：[https://gohugo.io](https://gohugo.io)
 - 主题：[木木](https://immmmm.com) 的 [hello-friend](https://github.com/lmm214/immmmm/tree/master/themes/hello-friend)
-- 博客方案（免费）：[obsidian+hugo+cloudflare](https://lillianwho.com/posts/obsidian-hugo-cloudflare/)
-- 本站源码：https://github.com/lillian-who/lillian-who.github.io
+- 感谢：[夜猫日记](https://lillianwho.com/)
 
 ## 👨‍💻 关于博主
 
-我是莉莉蒙（Lillian who），大家叫我莉莉。
-
-双子座，坐标河南郑州。
-
+Thomas Teng，原汁原味山东人，八零后但被同事认为兼具七零后的坚韧成熟和九零后的时尚前沿，还拥有「哆啦 A 梦」等诸多奇怪的名号。机缘巧合，这些年就职的工作岗位总是需要掌握和展现综合能力，这使得 Thomas 的工作经历较同龄人丰富许多，8 年质量管理，11 年团队管理，3 年项目管理和 1 年产品管理，（自诩）擅长知识管理、时间管理。
+Thomas 的职业生涯始于某世界500强制造企业，后加入某空间信息领域的软件公司，目前在某新兴通讯领域做生产管理工作。 
+Thomas 爱好广泛，业余时间曾任某刊物主编，曾在某创业园区长期主持入驻企业管理层的世界咖啡馆（某种欧美流行的管理沙龙）和项目管理沙龙，也曾创办独立实木家具定制品牌「匠人造」，积累了不少失败经验。平时酷爱阅读，算是 Kindle 在中国的第一批用户，喜欢摄影和写作，在个人成长方面踩过很多坑，走过不少弯路，希望能够通过分享原创内容帮助更多的人。
 ### ⛹ 兴趣爱好
 
-- 💻折腾
-- 📚阅读
-- 📝写作
-- 📒手帐
-- 🖋文具
-- 软件
-
-### 常用工具推荐（使用三年以上）
-- Markdown 笔记工具 「Obsidian」，平时写博客用的也是ob
-- 图床管理工具 「PicGo」，用它配合图床，写md文件时可以做到自动上传图片
-- 阅读软件「微信读书」，它帮助我打败了对书的占有欲望，让我培养起阅读习惯。真正的占有是读完它而不是拥有它。
-
+认识我的人都知道。
 ### 📬 如何找到我
 
-- 公众号：莉莉蒙（微信号：Lillian_Memo）
-- Email： [📩ciwiehenfan@sina.com](mailto:ciwiehenfan@sina.com) 
+| 平台       | 账号                                                 | 备注                                                    |
+| ---------- | ---------------------------------------------------- | ------------------------------------------------------- |
+| 知乎       | [Thinkbond](https://www.zhihu.com/people/thinkbond/) | 知乎专栏：[匠人造物](https://zhuanlan.zhihu.com/jrwork) |
+| 微博       | [匠人造物](https://weibo.com/thinkbond)              | 记录生活成长点滴，碎片信息                              |
+| 微信公众号 | 匠人造物（jrworkcn）                                 | 目前正在建设中，多谢鼓励：） |                              |
 - 博客站现已开通评论，欢迎留言哦
-- 想收到新文章推送，请使用 RSS/邮件订阅
 
-## 博客变迁
-- 2023-06-27 给博客增加邮件订阅。方案是 [tinyletter](https://app.tinyletter.com). 你可以在文章的底部表单，或者点击 [这里](https://tinyletter.com/lillianwho) 填写你的邮件地址进行订阅。
-- 2023-03-18 给博客加入了twikoo评论
-- 2023-03-11 因原有腾讯云服务器到期，博客重新搬回github，但是保留了域名。用了[新的免费博客方案](https://lillianwho.com/posts/new-blog-sys/) ，将网站托管到了 cloudflare，它可以自动拉取托管到github的源码，然后用hugo的系统进行解析。同时改造了obsidian写博客和发博客的轮子，能够不离开ob就能一键发布博客。
-- 2022-10-18 受[木木大佬](https://immmmm.com/) 影响，博客系统换为hugo：[Hello Hugo](https://lillianwho.com/posts/hello-hugo/)。主题使用了木木分享的同款[hello-friend](https://github.com/lmm214/immmmm/tree/master/themes/hello-friend) 
-- 2022年9月，博客系统换成了 [Gridea](https://gridea.dev) ，用了非常好看的主题「Break」。当时写了文章推荐该主题： [宝藏主题Break](https://lillianwho.com/posts/bao-cang-gridea-zhu-ti-break/) 
-- 2022-02-25 [博客迁移](https://lillianwho.com/posts/博客迁移通知/)。有了独立域名，购买了腾讯云云服务器，访问地址变为：[http://lillianwho.com](http://lillianwho.com)
-- 2022-01-25 [博客改版](https://lillianwho.com/posts/博客改版/)。网站名改为「**喜于微**」。
-- 2021-09-23 [博客上线](https://lillianwho.com/posts/我的博客上线啦/)，当时使用的是github page，使用的博客系统是hexo，主题用的是好看的butterfly。
+### $ 如果想赞助，我是说如果
 
 
-
+|          您可以选择手机支付宝扫一扫           |           您也可以选择手机微信扫一扫           |
+| :-------------------------------------------: | :--------------------------------------------: |
+| ![支付宝转账二维码](/posts/ali_pay.png) | ![微信转账二维码](/posts/wechat_pay.png) |
+没错，暂无赞助方式（主要是脸皮不够厚
 
 
 
