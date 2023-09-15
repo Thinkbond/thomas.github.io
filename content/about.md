@@ -14,7 +14,7 @@ hideInList: false
 ### 订阅我
 
 - RSS地址： feed://thomasteng.com/atom.xml 
-- 邮件订阅：[欢迎订阅](https://tinyletter.com/lillianwho) 
+- 邮件订阅：[欢迎订阅](https://tinyletter.com/thomasteng) 
 
 ### 博客程序
 
