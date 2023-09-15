@@ -1,7 +1,7 @@
-baseURL = 'https://lillianwho.com/'
+baseURL = 'https://thomasteng.com/'
 languageCode = 'zh-CN'
 timeZone = 'Asia/Shanghai'
-title = '夜猫日记'
+title = '匠人造物'
 
 # 主题
 theme  =  "hello-friend"
@@ -57,8 +57,8 @@ rssLimit = 5
   DateFormatSingle = "2006-01-02"
   ReadMore = "阅读全文"
   
-  description = "生命就是反重力的过程"
-	keywords = "博客、app、折腾、生活、阅读、自律"
+  description = "认真探索，分享每一分收获。"
+	keywords = "探寻、思考、行动"
  
 
 [markup]
