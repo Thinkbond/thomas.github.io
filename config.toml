@@ -79,6 +79,6 @@ rssLimit = 5
   baseName = "atom"
 
 [params.twikoo]
-	enable = true
+	enable = false
   visitor = true
   
